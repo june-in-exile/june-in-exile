@@ -15,7 +15,7 @@ I am an **AI-native Full-Stack Engineer** who takes products from **0 to 1** —
 
 #### ✨ Key Projects
 
-* **[DripLLM](https://github.com/june-in-exile/DripLLM)** — 🏆 *Top 3, Team1 China: Builder Day @Chengdu*
+* **[DripLLM](https://github.com/june-in-exile/DripLLM)** — 🏆 *1st Place, Team1 Avalanche Builder Launchpad*
     * A pay-per-second LLM streaming service: AI agents pay to open a session, receive tokens over SSE, top up automatically, and get cut off once they stop paying.
     * [Live demo](https://dripllm.vercel.app/) · [video](https://youtu.be/byWq1cToZ-4)
 * **[Architect Mind](https://github.com/june-in-exile/ArchitectMind)**
